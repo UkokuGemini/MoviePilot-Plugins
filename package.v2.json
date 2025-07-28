@@ -383,7 +383,7 @@
     "version": "2.1.0",
     "icon": "douban.png",
     "author": "jxxghp,dwhmofly",
-    "level": 2,
+    "level": 1,
     "history": {
       "v2.1.0": "新增配置项-搜索下载，开启后会优先搜索站点资源进行下载，下载不到才会添加订阅",
       "v2.0.1": "支持将豆瓣ID转换为MoviePilot中已有用户（在用户个人信息中绑定豆瓣ID），需要MoviePilot v2.2.6+",
