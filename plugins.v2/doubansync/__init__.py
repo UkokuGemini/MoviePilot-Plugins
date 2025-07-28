@@ -24,8 +24,6 @@ from app.helper.rss import RssHelper
 from app.log import logger
 from app.plugins import _PluginBase
 
-lock = Lock()
-
 
 class DoubanSync(_PluginBase):
     # 插件名称
